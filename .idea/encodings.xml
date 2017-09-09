@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/台湾IT类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/台湾体育类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/台湾军事类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/台湾教育类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/台湾文化类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/台湾汽车类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/台湾游戏类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/台湾财经类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/大陆IT类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/大陆体育类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/大陆军事类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/大陆教育类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/大陆文化类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/大陆汽车类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/大陆游戏类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/大陆财经类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/日本测试类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/美国体育类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/美国政治类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/美国测试类" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/美国测试类/51941" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/NewsData/韩国测试类" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

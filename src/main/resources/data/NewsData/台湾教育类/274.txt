@@ -1,0 +1,31 @@
+
+　　在這幾年的教學工作中，我發現對於歷屆學生非謂語動詞是一大難點，所以，我研究了一套解題步驟，從一開始就訓練學生按照這套解題步驟來做題。
+　　第一步，分析句子成分，判斷動詞在句中所作的成分，例如：主語、賓語、定語、表語、補語或是狀語。
+　　第二步，考慮非謂語動詞與相應的邏輯主語或被修飾詞之間的主動還是被動關係。
+　　1、主語。只需要考慮todo(一般表示一次特定的行爲)或是v-ing(一般表示習慣性行爲)。
+　　2、賓語。只需要考慮todo或是v-ing。至於區別，我建議把常接v-ing作賓語的特殊動詞背下來。主動&amp;被動取決於句子主語。
+　　e.g.Idon’tmind___to
+　　theparty.A.beingnotinvitedB.notinvitingC.notbeinginvitedD.nottobeinvited
+　　答案是C.mind後應該用v-ing，所以排除D,invite與I是被動關係，所以排除B,not應該放在being前，所以C正確。
+　　3、定語。主動&amp;被動取決於被修飾的詞。注意：不定式主動形式表示被動意義的用法。當不定式所修飾的詞是動作的承受者時，句中有動作的施動者時，不定式一般用主動形式。
+　　e.g.Therearenotmany
+　　shoesforhim_____.A.tochoosefromB.tochooseC.tobechosenfromD.tobechosen
+　　答案是A.動詞不定式做
+　　shoes的定語，與shoes構成動賓關係，him是choose的動作施動者，所以應該用主動形式。choose直接跟賓語是選中某物，而句中的意思是從中選擇，所以應該選A.4、表語。V-ing表示主動意義、正在進行和主語的性質；過去分詞表示被動意義、完成和主語的狀態。
+　　5、補語。如果是補充說明賓語，考慮與賓語的主動或是被動關係；如果是補充說明主語，考慮與主語的主動或是被動關係。
+　　e.g.Heraisedhisvoice
+　　soastomakehimself_____.A.hearB.hearingC.beheardD.heard
+　　答案是D.動詞在句中作補語，與賓語himself是被動關係，所以選擇過去分詞heard
+　　6、狀語。考慮與句子主語的主動或是被動關係。
+　　e.g._____,theoldman
+　　islivingahappylife.A.TakinggoodcareB.TakengoodcareC.HavingtakengoodcareD.Takengoodcareof
+　　答案是D。動詞在句中作狀語，與句子主語構成被動關係。第三步，考慮所選動詞與句子謂語動詞所表示的動作行爲之間發生的先後關係。同時發生：doing,beingdone或tobedoing發生在謂語動詞之前：havingdone,done或tohavedone發生在謂語動詞之後：todo
+　　e.g._____wheretogo,heaskedapolicemantheway.
+　　A.Havinglosthiswayandnotknowing
+　　B.Losinghiswayanddidn’tknow
+　　C.Losthiswayandnotknowing
+　　D.Losthiswayanddidn’tknow
+　　答案是A.所選部分在句中作狀語，與句子主語是主動關係，排除C,D,迷失道路發生在向警察詢問之前，所以選A。
+&nbsp;
+&nbsp;
+來源:城市快報

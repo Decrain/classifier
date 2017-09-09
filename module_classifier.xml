@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_classifier" default="compile.module.classifier">
+  <dirname property="module.classifier.basedir" file="${ant.file.module_classifier}"/>
+  
+  <property name="module.jdk.home.classifier" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.classifier" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.classifier" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.classifier" value="-encoding UTF-8 -source 8 -target 8 ${compiler.args}"/>
+  
+  <property name="classifier.output.dir" value="${module.classifier.basedir}/out/production/Classifier"/>
+  <property name="classifier.testoutput.dir" value="${module.classifier.basedir}/out/test/Classifier"/>
+  
+  <path id="classifier.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="classifier.module.production.classpath">
+    <path refid="${module.jdk.classpath.classifier}"/>
+  </path>
+  
+  <path id="classifier.runtime.production.module.classpath">
+    <pathelement location="${classifier.output.dir}"/>
+  </path>
+  
+  <path id="classifier.module.classpath">
+    <path refid="${module.jdk.classpath.classifier}"/>
+    <pathelement location="${classifier.output.dir}"/>
+  </path>
+  
+  <path id="classifier.runtime.module.classpath">
+    <pathelement location="${classifier.testoutput.dir}"/>
+    <pathelement location="${classifier.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.classifier">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.classifier">
+    <patternset refid="excluded.from.module.classifier"/>
+  </patternset>
+  
+  
+  <target name="compile.module.classifier" depends="compile.module.classifier.production,compile.module.classifier.tests" description="Compile module Classifier"/>
+  
+  <target name="compile.module.classifier.production" depends="register.custom.compilers" description="Compile module Classifier; production classes"/>
+  
+  <target name="compile.module.classifier.tests" depends="register.custom.compilers,compile.module.classifier.production" description="compile module Classifier; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.classifier" description="cleanup module">
+    <delete dir="${classifier.output.dir}"/>
+    <delete dir="${classifier.testoutput.dir}"/>
+  </target>
+</project>

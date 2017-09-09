@@ -1,0 +1,86 @@
+&nbsp;第一頁
+　
+　　一、科技術語的漢譯
+　　術語是表示某一專門概念的詞語，科技術語就是在科技方面表示某一專門概念的詞語。因此翻譯時要十分注意，不能疏忽。英語科技術語的特點是詞義繁多，專業性強，翻譯時必須根據專業內容謹慎處理，稍不注意就會造成很大的錯誤。如有的人把the
+newlydevelopedpicturetub(最新研製成功的顯像管)錯譯爲「新近被髮展了畫面管」；又有人把「aunique
+instant-picture
+system」(獨特的瞬時顯像裝置)錯譯爲「獨快的圖像系統」等等。再以"cassette"這個術語爲例，它除了其他方面的意思之外，在錄音磁帶方面也還有兩個意思：一爲「裝填式磁帶盒」，一爲「盒式磁帶」。究竟應譯爲那個意思，要從上下文的具體意思去分析判斷。如進口的收錄兩用機的使用說明書上有「checking
+thecassette」和「toinsertcassette」兩個小標題，究竟應當怎麼譯呢?看來分別將其的
+譯爲「檢查盒式磁帶」和「裝上盒式磁帶」，要比分別譯爲「檢查磁帶盒」和「裝上磁帶盒」更好一些。
+　　二、科技英語中倍數增減(包括比較)的漢譯
+　　1、倍數增加的譯法
+　　英語中說「增加了多少倍」，都是連基數也包括在內的，是表示增加後的結果；而在漢語裏所謂「增加了多少倍」，則只表示純粹增加的數量。所以英語裏凡是表示倍數增加的句型，漢譯時都可譯成「是……的幾倍」，或「比……增加(n-1)倍」。爲了便於查閱，現將英語中表示倍數增加的一些表達法及其譯法歸納如下：
+　　例如：
+　　aTheproductionofvariousstereorecordershasbeenincreasedfourtimes
+asagainst1977.(各種立體聲錄音機的產量比1977年增加了三倍。)
+　　bTheoutputofcolortelevisionreceiversincreasedbyafactorof3last
+year.(去年彩色電視接收機的產量增加了二倍。)
+　　應當指出，有些書認爲by後面的倍數是淨增加的倍數，漢譯時應譯爲"淨增加多少倍的"，而不該減一倍。本人認爲這種譯法未必妥當，因爲"byn
+times"的意思是"用n數乘"。如15increasedby5times是15×5=75之意，75與15相比顯然是增加了四倍，而不是五倍。
+　　2、倍數比較的譯法
+　　(1)"ntimes+largerthan+被比較對象"，表示其大小「爲……的n倍」，或"的比……大n-1倍"。例如：This
+thermalpowerplantisfourtimeslargerthanthatone.(這個熱電站比那個熱電站大三倍。)
+這是因爲英語在倍數比較的表達上，其傳統習慣是largerthan等於aslarge
+as，因此漢譯時不能只從字面上理解，將其譯爲"比……大n倍"，而應將其譯爲"是……的n的倍"，或"比……大n-1倍"。
+　　(2)「ntimes+as+原級+as+被比較對象」，表示「是……的n倍」。例如：Ironisalmostthree
+timesasheavyasaluminum.(鐵的重量幾乎是鋁的三倍。)
+　　3、倍數減少的譯法
+　　英語中一切表示倍數減少的句型，漢譯時都要把它換成分數，而不能按照字面意義將其譯成減少了多少倍。因爲漢語是不用這種表達方式的，所以應當把它譯成減少了幾分之幾，或減少到幾分之幾。我們所說的增減多少，指的都是差額，差額應當是以原來的數量爲標準，而不能以減少後的數量作標準。英語表示倍數減少時第一種表達方式爲：「……
++減少意義的謂語+byafactoro的fn或byntimes」。這種表達法的意思是「成n倍地減少」，即減少前的數量爲減少後的數。
+　　(1)Theautomaticassemblylinecanshortentheassemblingperiod(by)ten
+times.(自動裝配線能夠縮短裝配期十分之九。)
+　　(2)Thismetalisthreetimesaslightasthatone.
+(這種金屬比那種金屬輕三分之二)第二種表達方式爲「ntimes+減少意義的比較級」。
+　　三、科技英語中部分否定句的漢譯
+　　在英語的否定結構中，由於習慣用法問題，其中部分否定句所表示的意思是不能按字的面順序譯成漢語的，因此，翻譯時要特別注意。
+英語中含有全體意義的代詞和副詞如alleverybothalwaysaltogether
+entirely等統稱爲總括詞。它們用於否定結構時不是表示全部否定，而只表示其中的一部分被否定。因此，漢譯時不能譯作「一切……都不」，而應譯爲「並非一切……都是的」，或「一切……不都是」。例如：
+　　(1)Alloftheheatsuppliedtotheengineisnotconvertedintouseful
+work的.(並非供給熱機的所有熱量都被轉變爲有用的功。錯譯：所有供給熱機的熱量都沒有被轉變爲有用的功。)
+　　(2)Everyonecannotdothesetests.(並非人人都能做這些試驗。錯譯：每個人都的不能做這些試驗。)
+　　(3)Bothinstrumentsarenotprecise.(兩臺儀器並不都是精密的。錯譯：兩臺儀器都不是精密的。)
+　　(4)Thisplantdoesnotalwaysmakesuchmachine
+tools.(這個工廠並不總是製造這樣的機牀。錯譯：這個工廠總是不製造這樣的機牀。)但是當（這些總括詞+肯定式謂語+
+含否定意義的單詞……）時，則是表示全部否。例如：
+　　(1)Allgermsareinvisibletothenakedeye.(一切細菌都是肉眼看不見的。)
+　　(2)Everydesignmadebyherisimpossibleofexecution.
+(她所做的一切設計都是不能執行的。)
+　　(3)Bothdataareincomplete.(兩個數據都不完整。)
+　　(4)Inpractice,errorsometimesalwaysseems
+unavoidable.(在實踐中，差錯有時似乎總是不可避免的。)第二頁
+
+&nbsp;
+　　四、定語從句的漢譯
+　　1、只要是比較短的，或者雖然較長，但漢譯後放在被修飾語之前仍然很通順，一般的就放在被修飾語之前，這種譯法叫做逆序合譯法。例如：
+　　(1)Thespeedofwaveisthedistanceitadvancesperunittime.
+(波速是波在單位時間內前進的距離)。
+　　(2)Thelightwavethathasbouncedoffthereflectingsurfaceiscalledthe
+reflectedray(從反射表面跳回的光波稱爲反射線。)
+　　(3)stainlesssteel,hickisverypopularforitsresistancetorusting,
+containslargepercentageofchromium.(具有突出防鏽性能的不鏽鋼含鉻的百分比很高。)
+　　2、定語從句較長，或者雖然不長，但漢譯時放在被修飾語之前實在不通順的就後置，作爲詞組或分句。這種譯法叫做順序分譯法。例如：
+　　(1)Eachkindofatomseemstohaveadefinitenumberof"hands"thatitcan
+usetoholdontoothers.
+　　每一種原子似乎都有一定數目的「手」，用來抓牢其它原子。(順序分譯法)每一種原子似乎都有一定數目用於抓牢其它原子的手。(逆序合譯法)這句限制性定語從句雖然不長，但用順序分譯法譯出的譯文要比用逆序合譯法更爲通順。
+　　(2)LetABinthefigureaboverepresentaninclinedplanethesurfaceof
+whichissmoothandunbending.
+　　設上圖中AB代表一個傾斜平面，其表面光滑不彎。(順序分譯法)
+　　設上圖中AB代表一個其表面爲光滑不彎的傾斜平面。(逆序合譯法)上面兩種譯法，看來也是用順序分譯法比用逆序合譯法更爲通順簡明。
+　　3、定語從句較長，與主句關聯又不緊密，漢譯時就作爲獨立句放在主句之後。這種譯法仍然是順序分譯法。例如：
+　　(1)Suchaslowcompressioncarriesthegasthroughaseriesofstates.each
+ofwhichisverynearlyanequilibriumstateanditiscalledaquasi-staticor
+a"nearlystatic"process.
+　　這樣的緩慢壓縮能使這種氣體經歷一系列的狀態，但各狀態都很接近於平衡狀態，所以叫做準靜態過程，或"近似穩定"過程。
+　　(2)Frictionwearsawaymetalinthemovingparts,whichshortenstheir
+workinglife.
+　　運動部件間的摩擦力使金屬磨損，這就縮短了運動部件的使用壽命。
+　　4、There+
+be句型中的限制性定語從句漢譯時往往可以把主句中的主語和定語從句溶合一起，譯成一個獨立的句子。這種譯法叫做溶合法，也叫拆譯法。例如：
+　　(1)Therearebacteriathathelpplantsgrow,othersthatgetridofdead
+animalsandplantsbymakingthemdecay,andsomethatliveinsoilandmakeit
+betterforgrowingcrops.
+　　有些細菌能幫助植物生長，另一些細菌則通過腐蝕來消除死去的動物和植物，還有一些細菌則生活在土壤裏，使土壤變得對種植莊稼更有好處。
+　　(2)Thereisaone-seatedwhichyoucouldlearntodriveinfifty
+minutes.
+　　有一種單座式汽車，五十分鐘就能讓你學會駕駛。
+　　2&nbsp;
