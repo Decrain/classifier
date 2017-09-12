@@ -1,6 +1,6 @@
 # Classifier
     使用Spark NaiveBayes 实现中文文本分类
-    原项目地址：<br/><https://github.com/Decrain/SparkTextClassifier >
+    原项目地址：<br /><https://github.com/Decrain/SparkTextClassifier>
     
 # 程序大致流程
     1、准备数据
