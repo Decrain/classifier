@@ -1,6 +1,6 @@
 # Classifier
     使用Spark NaiveBayes 实现中文文本分类
-    原项目地址：<br /><https://github.com/Decrain/SparkTextClassifier>
+    原项目地址：<https://github.com/Decrain/SparkTextClassifier>
     
 # 程序大致流程
     1、准备数据
@@ -49,7 +49,7 @@
                 
    # 增加内容
    ```
-        0、原项目地址：<https://github.com/Decrain/SparkTextClassifier > 感谢 Maweiming同学的共享;
+        0、原项目地址：<https://github.com/Decrain/SparkTextClassifier><br/>感谢 Maweiming同学的共享;
         1、增加了语料库，实现了中、日、韩、台等语言的识别，训练及分类等；其中对于繁体，通过简译繁的方法，得到了繁体语料；对于英文语料及韩文语料，未找到免费的且能满足要求的数据，头疼;
         2、增加了字符编码的转换问题等;
         3、基本解决了原项目存在的一些bug;
